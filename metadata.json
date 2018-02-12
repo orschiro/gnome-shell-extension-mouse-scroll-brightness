@@ -1,0 +1,7 @@
+{
+  "uuid": "mouse-scroll-brightness@robert.orzanna.de",
+  "name": "Mouse Scroll Brightness",
+  "description": "Change brightness levels with a mouse scroll over the battery icon",
+  "url": "https://github.com/orschiro/gnome-shell-extension-mouse-scroll-brightness",
+  "shell-version": [ "3.26.2" ]
+}

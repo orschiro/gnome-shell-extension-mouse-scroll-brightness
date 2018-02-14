@@ -1,3 +1,13 @@
+/*
+
+Goal of this extension:
+
+change brightness by scrolling over the power (battery) icon
+
+Compare with volume icon scroll to change volume
+
+*/
+
 // adapting from https://gitlab.gnome.org/GNOME/gnome-shell/blob/master/js/ui/status/volume.js#L316
 const Clutter = imports.gi.Clutter;
 const Lang = imports.lang;
